@@ -7,7 +7,7 @@
 - 💼 I’m working as a production assistant
 - 🌱 I’m currently learning Html, Css e JavaScript
 - 📫 Contate-me no email: *renato.rhuan@icloud.com*
-- 📘 studying internet systems in <a href="https://www.uninga.br/" target="blank_"> Uningá</a>
+- 📘 studying internet Systems in <a href="https://www.uninga.br/" target="blank_"> Uningá</a>
 
 <h3 align="left">📱 My social networks</h3>
 
