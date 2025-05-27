@@ -1,38 +1,31 @@
-## 👋 Hi, my name is <strong>Renato-Rhuan!<strong/>
+<h1 align="center">👋 Olá! Eu sou o <strong>Renato Rhuan</strong> 🚀</h1> <h3 align="center">Desenvolvedor Front-End | Focado em Sistemas Web 🎯</h3> <p align="center"> <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?semt=ais_country_boost&w=740" width="290px" alt="Notebook"/> </p>
+🧑‍💻 Sobre Mim
+✨ Entusiasta de tecnologia e apaixonado por desenvolvimento Front-End
+📚 Atualmente me dedicando ao estudo de HTML, CSS e JavaScript
+🎯 Buscando evoluir e construir projetos cada vez mais interativos e responsivos
+🚀 Interesse futuro: React, TypeScript, SASS e Figma
 
-<h3>I'm a web systems developer Front-End 🎯</h3>
+"A tecnologia move o mundo, mas é a curiosidade que o transforma."
 
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?semt=ais_country_boost&w=740" min-width="290px" max-width="290px" width="290px" align="right" alt="Notebook">
+🔗 Minhas Redes Sociais
+<p align="left"> <a href="https://www.linkedin.com/in/renato-rhuan-7a2b73283/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/renato.rhuan/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
+🛠️ Tecnologias que Domino
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"/> <img src="https://skillicons.dev/icons?i=git" alt="Git"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </p>
+🚀 Tecnologias que Estou Estudando ou Quero Aprender:
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,ts,sass,figma" alt="React, TypeScript, SASS, Figma"/> </p>
+📊 Estatísticas do GitHub
+<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
+🐍 Snake Commit Contribution
 
-- 💼 I’m working as a production assistant
-- 🌱 I’m currently learning Html, Css e JavaScript
-- 📫 Contate-me no email: *renato.rhuan@icloud.com*
-- 📘 studying internet Systems in <a href="https://www.uninga.br/" target="blank_"> Uningá</a>
 
-<h3 align="left">📱 My social networks</h3>
+👁️ Contador de Visitas
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Renato-Rhuan&style=for-the-badge" alt="Renato-Rhuan" /> </p>
+📫 Contato
+📧 Email: renato.rhuan@icloud.com
+🎓 Estudando: Sistemas para Internet na Uningá
 
-<a href="https://www.linkedin.com/in/renato-rhuan-7a2b73283/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/renato.rhuan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-#
-<h3 align="left">🖥️ Languages ​​and Technologies</h3>
-
-<p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a> 
-</p>
-
-#
-<h3 align="left">📊 Statistics</h3>
-<a href="https://github.com/Renato-Rhuan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark"/>
+🚀 "Sempre buscando evoluir, compartilhar conhecimento e criar soluções que façam a diferença!" 🌟
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer&text=Obrigado%20por%20visitar!&fontColor=fff&fontSize=20&animation=twinkling" alt="footer"/> </p>
 
 
 
