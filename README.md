@@ -15,7 +15,6 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,ts,sass,figma" alt="React, TypeScript, SASS, Figma"/> </p>
 📊 Estatísticas do GitHub
 <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
-🐍 Snake Commit Contribution
 
 
 👁️ Contador de Visitas
