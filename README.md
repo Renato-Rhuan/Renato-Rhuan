@@ -10,9 +10,9 @@
 🔗 Minhas Redes Sociais
 <p align="left"> <a href="https://www.linkedin.com/in/renato-rhuan-7a2b73283/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/renato.rhuan/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
 🛠️ Tecnologias que Domino
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,React" alt="HTML, CSS, JS, NodeJs, React"/> <img src="https://skillicons.dev/icons?i=git" alt="Git"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="HTML, CSS, JS, NodeJs, React"/> <img src="https://skillicons.dev/icons?i=git" alt="Git"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </p>
 🚀 Tecnologias que Estou Estudando ou Quero Aprender:
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,ts,sass,figma" alt=" TypeScript, SASS, Figma"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=,ts,sass,figma" alt=" TypeScript, SASS, Figma"/> </p>
 📊 Estatísticas do GitHub
 <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
 
