@@ -55,19 +55,11 @@ const renato = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoRhuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRhuan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RenatoRhuan/RenatoRhuan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
+👁️ Contador de Visitas
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Renato-Rhuan&style=for-the-badge" alt="Renato-Rhuan" /> </p>
 ---
 
 ## 📬 Bora conversar?
