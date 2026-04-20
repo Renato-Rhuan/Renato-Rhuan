@@ -13,6 +13,10 @@
 
 <br/>
 
+ <p align="center"> <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?semt=ais_country_boost&w=740" width="290px" alt="Notebook"/>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-rhuan-7a2b73283/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenatoRhuan)
 
