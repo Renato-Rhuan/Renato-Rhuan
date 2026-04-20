@@ -1,31 +1,86 @@
-<h1 align="center">👋 Olá! Eu sou o <strong>Renato Rhuan</strong> 🚀</h1> <h3 align="center">Desenvolvedor Front-End | Focado em Sistemas Web 🎯</h3> <p align="center"> <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?semt=ais_country_boost&w=740" width="290px" alt="Notebook"/> </p>
-🧑‍💻 Sobre Mim
-✨ Entusiasta de tecnologia e apaixonado por desenvolvimento Front-End
-📚 Atualmente me dedicando ao estudo de HTML, CSS e JavaScript
-🎯 Buscando evoluir e construir projetos cada vez mais interativos e responsivos
-🚀 Interesse futuro: TypeScript, SASS e Figma
+<div align="center">
 
-"A tecnologia move o mundo, mas é a curiosidade que o transforma."
+```
+██████╗ ███████╗███╗   ██╗ █████╗ ████████╗ ██████╗     ██████╗ ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝████╗  ██║██╔══██╗╚══██╔══╝██╔═══██╗    ██╔══██╗██║  ██║██║   ██║██╔══██╗████╗  ██║
+██████╔╝█████╗  ██╔██╗ ██║███████║   ██║   ██║   ██║    ██████╔╝███████║██║   ██║███████║██╔██╗ ██║
+██╔══██╗██╔══╝  ██║╚██╗██║██╔══██║   ██║   ██║   ██║    ██╔══██╗██╔══██║██║   ██║██╔══██║██║╚██╗██║
+██║  ██║███████╗██║ ╚████║██║  ██║   ██║   ╚██████╔╝    ██║  ██║██║  ██║╚██████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝    ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-🔗 Minhas Redes Sociais
-<p align="left"> <a href="https://www.linkedin.com/in/renato-rhuan-7a2b73283/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/renato.rhuan/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
-🛠️ Tecnologias que Domino
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="HTML, CSS, JS, NodeJs, React"/> <img src="https://skillicons.dev/icons?i=git" alt="Git"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </p>
-🚀 Tecnologias que Estou Estudando ou Quero Aprender:
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,sass,figma,mysql" alt=" TypeScript, SASS, Figma, MySQL"/> </p>
-📊 Estatísticas do GitHub
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
+### ⚡ *"Transformo ideias em interfaces — do servidor ao pixel, do back ao front."* ⚡
 
+<br/>
 
-👁️ Contador de Visitas
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Renato-Rhuan&style=for-the-badge" alt="Renato-Rhuan" /> </p>
-📫 Contato
-📧 Email: renatoclahs12@gmail.com
-🎓 Estudando: Sistemas para Internet na Uningá
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-rhuan-7a2b73283/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenatoRhuan)
 
-🚀 "Sempre buscando evoluir, compartilhar conhecimento e criar soluções que façam a diferença!" 🌟
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=footer&text=Obrigado%20por%20visitar!&fontColor=fff&fontSize=20&animation=twinkling" alt="footer"/> </p>
+</div>
 
+---
+
+## 👾 Quem sou eu?
+
+```javascript
+const renato = {
+  nome:       "Renato Rhuan",
+  foco:       "Full Stack Developer",
+  mentalidade: "Se funciona na minha máquina... vira Docker 🐳",
+  atualmente: ["Criando interfaces que as pessoas amam usar",
+               "Construindo APIs que as pessoas nem sabem que existem",
+               "Bebendo café enquanto debugo ☕"],
+  motto:      "Código limpo, commits claros, bugs... raros (quase)."
+};
+```
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoRhuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRhuan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RenatoRhuan/RenatoRhuan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📬 Bora conversar?
+
+<div align="center">
+
+💼 Me encontre no **[LinkedIn](https://www.linkedin.com/in/renato-rhuan-7a2b73283/)** — sempre aberto a novas conexões e oportunidades!
+
+<br/>
+
+*"Todo grande projeto começa com um `git init`."* 🚀
+
+</div>
 
 
 
