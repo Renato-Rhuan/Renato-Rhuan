@@ -60,6 +60,8 @@ const renato = {
 
 👁️ Contador de Visitas
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Renato-Rhuan&style=for-the-badge" alt="Renato-Rhuan" /> </p>
+```
+
 ---
 
 ## 📬 Bora conversar?
