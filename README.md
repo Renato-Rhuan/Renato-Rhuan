@@ -12,7 +12,7 @@
 🛠️ Tecnologias que Domino
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="HTML, CSS, JS, NodeJs, React"/> <img src="https://skillicons.dev/icons?i=git" alt="Git"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </p>
 🚀 Tecnologias que Estou Estudando ou Quero Aprender:
-<p align="left"> <img src="https://skillicons.dev/icons?i=,ts,sass,figma" alt=" TypeScript, SASS, Figma"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=ts,sass,figma,mysql" alt=" TypeScript, SASS, Figma, MySQL"/> </p>
 📊 Estatísticas do GitHub
 <p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Rhuan&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/> </p>
 
